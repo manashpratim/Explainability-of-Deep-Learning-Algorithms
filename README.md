@@ -17,6 +17,6 @@ What factors influence the predictions of Deep learning Algorithms?
 
 [5] Zifan Wang, PiotrPiotr Mardziel, Anupam Datta, and Matt Fredrikson. Interpreting interpretations: Organizing attribution methods by criteria, 2020.
 
-Note: This project is part of my Homeworks. Current CMU students please refrain from going through the codes.
+**Note: This project is part of my Homeworks. Current CMU students please refrain from going through the codes.**
 
 
